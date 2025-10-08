@@ -13,7 +13,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=c%23&logoColor=purple)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -22,7 +21,6 @@
 <h3 align="left">Tecnologías</h3>
 
 ###
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
