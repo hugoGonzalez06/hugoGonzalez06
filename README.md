@@ -21,10 +21,7 @@
 <h3 align="left">Tecnologías</h3>
 
 ###
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
-![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 <h3 align="left">Bases de Datos</h3>
 
